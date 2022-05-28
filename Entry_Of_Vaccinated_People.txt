@@ -1,0 +1,28 @@
+
+
+The Vaccine Was Take By Person Below At Wed Nov 03 10:55:42 IST 2021
+Name :- jensi 
+Age :- 20 
+Phone Number :- 8141807761 
+Dose:- 1 
+Address Of Destination :- AMBALI UHC-1, OPP. AMBALI GAM BRTS BUS STAND AMBALI AHMEDABAD., Ahmedabad Corporation, Gujarat, 380058
+
+
+
+The Vaccine Was Take By Person Below At Wed Nov 03 10:56:15 IST 2021
+Name :- brij 
+Age :- 20 
+Phone Number :- 1234567897 
+Dose:- 1 
+Address Of Destination :- AMBALI UHC-1, OPP. AMBALI GAM BRTS BUS STAND AMBALI AHMEDABAD., Ahmedabad Corporation, Gujarat, 380058
+
+
+
+The Vaccine was take by person below at Wed Nov 03 10:57:48 IST 2021
+Name :- jensi 
+Age :- 20 
+Phone Number :- 8141807761 
+Dose:- 2 
+Address Of Venue for Dose 1 :- AMBALI UHC-1, OPP. AMBALI GAM BRTS BUS STAND AMBALI AHMEDABAD., Ahmedabad Corporation, Gujarat, 380058 
+Address Of Venue For Dose 2 :- AMBALI UHC-1, OPP. AMBALI GAM BRTS BUS STAND AMBALI AHMEDABAD., Ahmedabad Corporation, Gujarat, 380058
+
